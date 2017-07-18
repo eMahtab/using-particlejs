@@ -1,3 +1,2 @@
 #ParticleJS
-
-![Happy Birthday Particles] (happy-birthday-particles.png)
+! [Happy Birthday Particles](happy-birthday-particles.png)
